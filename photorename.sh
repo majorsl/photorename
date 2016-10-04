@@ -1,5 +1,5 @@
 #!/bin/sh
-# version 1.0.1
+# version 1.0.2
 # This script will change the file name of a photo to it's EXIF description to a max
 # of 35 characters.
 
